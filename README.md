@@ -48,5 +48,6 @@ MariOCaml was originally conceived for Cornell University's Fall 2015 CS3110 fin
 * Ashley Xue ([@ashleyxue529](https://github.com/ashleyxue529))
 * Liam Bui ([@LiamBui](https://github.com/liambui))
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/mariocaml@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/mariocaml@github)
 
-<!-- GitAds-Verify: GSV49O9YI14PFOQQZ5EC37YYS94LO5JD -->
